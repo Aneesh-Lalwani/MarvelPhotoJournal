@@ -1,0 +1,59 @@
+{
+  "itemlist": [
+    {
+      "src": "spider.jpeg",
+      "caption": "Spider Man: Home Coming",
+      "description": "A 2017 American superhero film based on the Marvel Comics character Spider-Man."
+    },
+
+    {
+      "src": "multiverse.png",
+      "caption": "Multiverse of Madness",
+      "description": "A 2022 superhero film, based on the Marvel Comics superhero Doctor Strange."
+    },
+
+    {
+      "src": "panther.jpg",
+      "caption": "Black Panther",
+      "description": "Black Panther is the first protagonist of African descent in mainstream American comics."
+    },
+
+    {
+      "src": "ageofultron.jpg",
+      "caption": "Avengers: Age of Ultron",
+      "description": "Avengers Age of Ultron is a 2015 superhero film, based on the Marvel Comics."
+    },
+
+    {
+      "src": "thor.jpg",
+      "caption": "Thor: The Dark World",
+      "description": "Thor: The Dark World is a 2013 American superhero film based on the Marvel Comics character."
+    },
+
+    {
+      "src": "captain.jpg",
+      "caption": "Captain America: Civil War",
+      "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
+    },
+    {
+      "src": "hulk.jpg",
+      "caption": "The Incredible Hulk",
+      "description": " Bruce Banner becomes the Hulk as an unwitting pawn in a military scheme to reinvigorate the 'Super-Soldier' program through gamma radiation."
+    },
+    {
+      "src": "doctor.png",
+      "caption": "Doctor Strange",
+      "description": "Doctor Strange is a fictional practicing sorcerer who draws his powers from mystical entities such as Agamotto, Cyttorak."
+    },
+    {
+      "src": "endgame.png",
+      "caption": "Avengers: End Game",
+      "description": "The Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe.no matter what consequences may be in store."
+     },
+    {
+      "src": "infinitywar.png",
+      "caption": "Avengers: Infinity War",
+      "description": "The Avengers and the Guardians of the Galaxy attempt to prevent Thanos from collecting the six all-powerful Infinity Stones."
+    }
+  ]
+}

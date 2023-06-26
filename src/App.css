@@ -1,5 +1,7 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&display=swap');
 .App {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .App-logo {
@@ -12,9 +14,18 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
-  background-color: #282c34;
+  background-image: linear-gradient(
+    to bottom,
+    /* #dbdcd7 0%,
+    #dddcd7 0%, */
+    #e2c9cc 5%,
+    #e7627d 46%,
+    #b8235a 65%,
+    #801357 75%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );/*#282c34;*/
   min-height: 100vh;
   display: flex;
   flex-direction: column;
